@@ -39,4 +39,4 @@ https://WWW.COS.COM/ 을 보고 제작🎀
 
 💜 캐러셀 섹션 Indicators 위치 확인!!
 
-[배포] (https://soneun.github.io/COS2/)
+[배포](https://soneun.github.io/COS2/)
